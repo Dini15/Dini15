@@ -27,9 +27,10 @@ I enjoy working on data projects that solve real-world problems. Check out some 
  
 
 ### 📫 Get in Touch  
-📧 [Email](dinia.sutrisno30@gmail.com)
+📧 [Email](dinia.sutrisno30@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dini-a/)  
-📸 [Instagram](https://www.instagram.com/yourinstagram/)  
+📸 [Instagram](https://www.instagram.com/dinianggriyani/)  
 💻 [Portfolio](https://huggingface.co/dini15)  
+  
 
 Let's connect and collaborate! 🚀  

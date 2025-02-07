@@ -23,7 +23,10 @@ I enjoy working on data projects that solve real-world problems. Check out some 
 📌 **Skin Type Classification with Deep Learning** - Implementing CNN to recognize skin types  
 📌 **Reducing Energy Consumption on High-Consumptions Energy Buildings** - Analyzing energy consumption to support goverment policy  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dini15&theme=dark)](https://git.io/streak-stats)
+## 🔥 GitHub Streak Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dini15&theme=dark)
+
  
 
 ### 📫 Get in Touch  

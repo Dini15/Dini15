@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dini
 
-![GitHub Banner](Beige Minimalist Personal Business LinkedIn Banner.jpg)
+![GitHub Banner](banner.jpg)
 
 ## 🚀 About Me  
 I am a **Data Enthusiast** with a strong passion for uncovering insights from data. I am highly interested in **Data Scientist**, **Data Engineer**, and **Data Analyst** roles, where I can apply my analytical and problem-solving skills to drive data-driven decisions.  

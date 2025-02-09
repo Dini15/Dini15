@@ -1,9 +1,5 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-</p>
-
-# Hi there! It's Dini
+# Hi there! It's Dini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 
 ![GitHub Banner](banner.jpg)

@@ -66,11 +66,5 @@ I enjoy working on data projects that solve real-world problems. Check out some 
 📸 [Instagram](https://www.instagram.com/dinianggriyani/)  
 💻 [Portfolio](https://huggingface.co/dini15)  
 
----
-## 🐱 Bonus Animation  
-
-
-![orange cat rolling](https://media.giphy.com/media/YRtLgsajXrz1FNJ6oy/giphy.gif)
-
 
 Let's connect and collaborate! 🚀  

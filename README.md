@@ -38,6 +38,10 @@ I enjoy working on data projects that solve real-world problems. Check out some 
   <img src="https://github.com/Dini15/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="funny orange cat"/>
+</p>
+
 
 ---
 

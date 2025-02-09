@@ -42,11 +42,12 @@ I enjoy working on data projects that solve real-world problems. Check out some 
 
 ---
 
-## 🏆 GitHub Trophies  
+### 🏆 GitHub Trophy  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dini15&theme=onedark&no-frame=true&column=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dini15&theme=darkhub&no-bg=true&no-frame=true&row=2&column=2&title=Commit,Repositories" alt="GitHub Trophy"/>
 </p>
+
 
 ## 🌟 Fun Fact
 🐦 I am a morning bird—I love starting my day early!

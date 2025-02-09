@@ -1,4 +1,10 @@
-# Hi there! 👋 I'm Dini
+<!-- HEADER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+</p>
+
+# Hi there! It's Dini
+
 
 ![GitHub Banner](banner.jpg)
 
@@ -27,13 +33,42 @@ I enjoy working on data projects that solve real-world problems. Check out some 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dini15&theme=dark)
 
- 
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Dini15/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dini15&theme=onedark&no-frame=true&column=4" alt="GitHub Trophies">
+</p>
+
+## 🌟 Fun Fact
+🐦 I am a morning bird—I love starting my day early!
+
+✈️ Love traveling and exploring new cultures.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="funny orange cat"/>
+</p>
+
+
 
 ### 📫 Get in Touch  
 📧 [Email](dinia.sutrisno30@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/dini-a/)  
 📸 [Instagram](https://www.instagram.com/dinianggriyani/)  
 💻 [Portfolio](https://huggingface.co/dini15)  
-  
+
+---
+## 🐱 Bonus Animation  
+
+
+![orange cat rolling](https://media.giphy.com/media/YRtLgsajXrz1FNJ6oy/giphy.gif)
+
 
 Let's connect and collaborate! 🚀  

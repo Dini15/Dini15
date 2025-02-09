@@ -53,7 +53,7 @@ I enjoy working on data projects that solve real-world problems. Check out some 
 ✈️ Love traveling and exploring new cultures.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="funny orange cat"/>
+  <img src="kocheng.webp">
 </p>
 
 

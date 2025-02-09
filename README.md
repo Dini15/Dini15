@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dini
 
-![GitHub Banner](https://www.canva.com/design/DAGcpMFqk_Y/oI4nfeAqa6V6YF1027NvHQ/edit)
+![GitHub Banner](https://drive.google.com/file/d/1ixthaSv_wQGbXqUosLWA3qExNF61YwZ8/view?usp=sharing)
 
 ## 🚀 About Me  
 I am a **Data Enthusiast** with a strong passion for uncovering insights from data. I am highly interested in **Data Scientist**, **Data Engineer**, and **Data Analyst** roles, where I can apply my analytical and problem-solving skills to drive data-driven decisions.  
